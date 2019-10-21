@@ -1,0 +1,29 @@
+.button {
+  padding: 6px;
+  border: 1px solid #db4c3f;
+  background-color: #db4c3f;
+  color: #ffffff;
+  border-radius: 4px;
+  width: 100%;
+  margin: 2px 0;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.button:hover {
+  border-color: #b0281a;
+  background-color: #c53727;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  transition: 0.2s;
+}
+
+.btn-green {
+  background-color: #349449;
+  border: 1px solid #349449;
+}
+
+.btn-green:hover {
+  background-color: #0c8a27;
+  border: 1px solid #0c8a27;
+  transition: 0.2s;
+}

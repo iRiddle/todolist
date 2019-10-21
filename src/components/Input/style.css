@@ -1,0 +1,43 @@
+.input {
+  padding: 6px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 100%;
+  margin: 4px;
+}
+
+.textarea {
+  min-width: 95%;
+}
+
+.input::-webkit-input-placeholder {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.input:-ms-input-placeholder {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.input:-moz-placeholder {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.input::-moz-placeholder {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.textarea::-webkit-input-placeholder {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.textarea:-ms-input-placeholder {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.textarea:-moz-placeholder {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.textarea::-moz-placeholder {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}

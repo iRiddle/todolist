@@ -1,0 +1,48 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto";
+  background-color: #edeef0;
+}
+
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 12px;
+}
+
+.app__title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app__title button {
+  width: auto;
+}
+
+.app__title img {
+  width: 24px;
+  height: 24px;
+  margin: 4px;
+}
+
+.app__top {
+  display: flex;
+  justify-content: space-around;
+}
+
+.app__bottom {
+  display: flex;
+}
+
+/* fonts */
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../../static/fonts/Roboto-Thin.ttf");
+}
