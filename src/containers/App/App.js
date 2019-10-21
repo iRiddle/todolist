@@ -188,7 +188,6 @@ class App extends Component {
       isEdit,
       priorityCase
     } = this.state;
-    console.log(localStorage);
     return (
       <div className="app">
         <div className="app__title">

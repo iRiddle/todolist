@@ -11,7 +11,6 @@ const Input = ({
   priorities,
   priorityCase
 }) => {
-  console.log(priorities);
   switch (type) {
     case "text": {
       return (
